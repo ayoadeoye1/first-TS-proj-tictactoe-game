@@ -1,0 +1,8 @@
+POST http://localhost:8000/logic
+Content-Type: application/json
+
+{
+    "x1": "X", "x2": "O", "x3": "X",
+    "x4": "O", "x5": "X", "x6": "O",
+    "x7": "O", "x8": "O", "x9": "X"
+}
